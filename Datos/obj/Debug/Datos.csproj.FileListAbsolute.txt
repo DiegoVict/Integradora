@@ -1,0 +1,66 @@
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\Datos\bin\Debug\Datos.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\Datos\bin\Debug\Datos.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\Datos\obj\Debug\Datos.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\Datos\obj\Debug\Datos.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru29072014\Datos\bin\Debug\Datos.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru29072014\Datos\bin\Debug\Datos.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru29072014\Datos\obj\Debug\Datos.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru29072014\Datos\obj\Debug\Datos.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\Datos\bin\Debug\Datos.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\Datos\bin\Debug\Datos.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\Datos\obj\Debug\Datos.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\Datos\obj\Debug\Datos.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\Datos\bin\Debug\Datos.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\Datos\bin\Debug\Datos.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\Datos\obj\Debug\Datos.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\Datos\obj\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\Datos\bin\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\Datos\bin\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\Datos\obj\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\Datos\obj\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\Datos\bin\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\Datos\bin\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\Datos\obj\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\Datos\obj\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\Datos\bin\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\Datos\bin\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\Datos\obj\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\Datos\obj\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\Datos\bin\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\Datos\bin\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\Datos\obj\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\Datos\obj\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\Datos\bin\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\Datos\bin\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\Datos\obj\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\Datos\obj\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\Datos\bin\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\Datos\bin\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\Datos\obj\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\Datos\obj\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\Datos\bin\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\Datos\bin\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\Datos\obj\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\Datos\obj\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\Datos\bin\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\Datos\bin\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\Datos\obj\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\Datos\obj\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\Datos\bin\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\Datos\bin\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\Datos\obj\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\Datos\obj\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\Datos\bin\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\Datos\bin\Debug\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\Datos\obj\Debug\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\Datos\obj\Debug\Datos.pdb

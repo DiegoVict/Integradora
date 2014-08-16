@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6CBC739E-5BC2-45C5-ACA1-23624A5912A9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Negocio</RootNamespace>
+    <AssemblyName>Negocio</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BO\Album.cs" />
+    <Compile Include="BO\UsuarioArtistaOrganizador.cs" />
+    <Compile Include="BO\Cancion.cs" />
+    <Compile Include="BO\UsuarioContacto.cs" />
+    <Compile Include="BO\UsuarioPlayListDetalle.cs" />
+    <Compile Include="BO\Etiqueta.cs" />
+    <Compile Include="BO\Evento.cs" />
+    <Compile Include="BO\EventoGaleria.cs" />
+    <Compile Include="BO\Genero.cs" />
+    <Compile Include="BO\UsuarioplayList.cs" />
+    <Compile Include="BO\UsuarioArtistaSeguir.cs" />
+    <Compile Include="BO\Usuario.cs" />
+    <Compile Include="BO\UsuarioEstandar.cs" />
+    <Compile Include="BO\UsuarioTipo.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="DAO\Album.cs" />
+    <Compile Include="DAO\Cancion.cs" />
+    <Compile Include="DAO\Etiqueta.cs" />
+    <Compile Include="DAO\Evento.cs" />
+    <Compile Include="DAO\EventoGaleria.cs" />
+    <Compile Include="DAO\Genero.cs" />
+    <Compile Include="DAO\Usuario.cs" />
+    <Compile Include="DAO\UsuarioArtistaOrganizador.cs" />
+    <Compile Include="DAO\UsuarioArtistaSeguir.cs" />
+    <Compile Include="DAO\UsuarioContacto.cs" />
+    <Compile Include="DAO\UsuarioEstandar.cs" />
+    <Compile Include="DAO\UsuarioPlayList.cs" />
+    <Compile Include="DAO\UsuarioPlayListDetalle.cs" />
+    <Compile Include="DAO\UsuarioTipo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\Album.cs" />
+    <Compile Include="Services\Cancion.cs" />
+    <Compile Include="Services\Etiqueta.cs" />
+    <Compile Include="Services\Evento.cs" />
+    <Compile Include="Services\EventoGaleria.cs" />
+    <Compile Include="Services\Genero.cs" />
+    <Compile Include="Services\Usuario.cs" />
+    <Compile Include="Services\UsuarioArtistaOrganizador.cs" />
+    <Compile Include="Services\UsuarioArtistaSeguir.cs" />
+    <Compile Include="Services\UsuarioContacto.cs" />
+    <Compile Include="Services\UsuarioEstandar.cs" />
+    <Compile Include="Services\UsuarioPlayList.cs" />
+    <Compile Include="Services\UsuarioPlayListDetalle.cs" />
+    <Compile Include="Services\UsuarioTipo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{84e9285c-c41d-4f1d-9ee5-cbe8de04c01b}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,457 @@
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\EntityFramework.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\EntityFramework.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru23072014\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\EntityFramework.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\EntityFramework.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\Negocio.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\Datos.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\Negocio.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru30072014 DISEÑO - copia\ProyectoLiveThru\bin\Datos.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\Negocio.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\Datos.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\Negocio.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\Datos.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\Negocio.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\Negocio.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru31072014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\Negocio.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\Negocio.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru02082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\Negocio.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\Negocio.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru03082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\Negocio.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\Negocio.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru06082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\Negocio.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\Negocio.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru07082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\Negocio.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\Negocio.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru08082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\Negocio.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\Negocio.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru09082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\Negocio.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\Negocio.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru10082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\Negocio.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\Negocio.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru12082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\Negocio.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\Negocio.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru13082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\ProyectoLiveThru.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\Microsoft.Web.Infrastructure.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\Negocio.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\System.Web.Providers.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\Datos.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\Negocio.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\EntityFramework.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.Core.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\DotNetOpenAuth.AspNet.xml
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\Datos.pdb
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\es\EntityFramework.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\es\System.Web.Providers.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.csprojResolveAssemblyReference.cache
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.dll
+C:\HIDE (E) PARTE 2\RESPALDO EDWIN 31072014\Documentos\ProyectoLiveThru14082014 DISEÑO\ProyectoLiveThru\obj\Debug\ProyectoLiveThru.pdb
